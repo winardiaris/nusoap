@@ -1,11 +1,11 @@
-<h1 align=center>NuSOAP</h1>
+<h1 align=center>NuSOAP - Custom</h1>
 
 <p align=center>
 NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a set of PHP classes - no PHP extensions required - that allow developers to create and consume web services based on SOAP 1.1, WSDL 1.1 and HTTP 1.0/1.1.
 </p>
 
 <p align=center>
-🕹 <a href="https://f3l1x.io">f3l1x.io</a> | 💻 <a href="https://github.com/f3l1x">f3l1x</a> | 🐦 <a href="https://twitter.com/xf3l1x">@xf3l1x</a>
+🕹 <a href="http://www.winardiaris.xyz/">winardiaris</a>
 </p>
 
 <p align=center>
@@ -13,27 +13,27 @@ NuSOAP is a rewrite of SOAPx4, provided by NuSphere and Dietrich Ayala. It is a 
 </p>
 
 <p align=center>
-    <a href="https://travis-ci.org/pwnlabs/nusoap"><img src="https://img.shields.io/travis/pwnlabs/nusoap.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/econea/nusoap"><img src="https://img.shields.io/packagist/l/econea/nusoap.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/econea/nusoap"><img src="https://img.shields.io/packagist/dt/econea/nusoap.svg?style=flat-square"></a>
-    <a href="https://packagist.org/packages/econea/nusoap"><img src="https://img.shields.io/packagist/v/econea/nusoap.svg?style=flat-square"></a>
+    <a href="https://travis-ci.org/winardiaris/nusoap"><img src="https://img.shields.io/travis/winardiaris/nusoap.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/winardiaris/nusoap"><img src="https://img.shields.io/packagist/l/winardiaris/nusoap.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/winardiaris/nusoap"><img src="https://img.shields.io/packagist/dt/winardiaris/nusoap.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/winardiaris/nusoap"><img src="https://img.shields.io/packagist/v/winardiaris/nusoap.svg?style=flat-square"></a>
 </p>
 
------
+---
 
 ## Versions
 
 | State       | Version       | Branch    | PHP      |
-|-------------|---------------|-----------|----------|
-| stable      | `~0.9.7`      | `master`  | `>= 5.4` |
+| ----------- | ------------- | --------- | -------- |
+| stable      | `~0.9.7.1`    | `master`  | `>= 5.4` |
 | development | `dev-develop` | `develop` | `>= 5.6` |
 
 ## Installation
 
 To install this pkg use Composer.
 
-```
-composer require econea/nusoap
+```sh
+composer require winardiaris/nusoap
 ```
 
 ### `Stable`
@@ -41,7 +41,7 @@ composer require econea/nusoap
 Solid rock version is `~0.9.7`.
 
 ```sh
-composer require econea/nusoap
+composer require winardiaris/nusoap
 ```
 
 ### `Development`
@@ -77,7 +77,7 @@ Take a look at `develop` branch. There will be new features and modernizations.
 Minimal version is set to PHP 5.6.
 
 ```sh
-composer require econea/nusoap:dev-develop
+composer require winardiaris/nusoap:dev-develop
 ```
 
 ## Help
@@ -107,6 +107,6 @@ composer require econea/nusoap:dev-develop
   <tbody>
 </table>
 
------
+---
 
 Thank you for testing, reporting and contributing.
