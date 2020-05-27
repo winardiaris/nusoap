@@ -103,6 +103,13 @@ composer require winardiaris/nusoap:dev-develop
         </br>
         <a href="https://github.com/f3l1x">Milan Felix Šulc</a>
       </td>
+      <td align="center">
+        <a href="https://github.com/winardiaris">
+            <img width="150" height="150" src="https://avatars2.githubusercontent.com/u/7648860?v=3&s=150">
+        </a>
+        </br>
+        <a href="https://github.com/winardiaris">Aris Winardi</a>
+      </td>
     </tr>
   <tbody>
 </table>
